@@ -11,7 +11,7 @@
 
 ### Saavn Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ligin Spotify Playing" width="350" />](https://www.saavn.com/s/playlist/77033f79160e57575ff81557fd8d5161/Music/itLNdJH3Yn8GSw2I1RxdhQ__)
+[<img src="https://www.saavn.com/s/playlist/77033f79160e57575ff81557fd8d5161/Music/itLNdJH3Yn8GSw2I1RxdhQ__" alt="ligin Spotify Playing" width="350" />](https://www.saavn.com/s/playlist/77033f79160e57575ff81557fd8d5161/Music/itLNdJH3Yn8GSw2I1RxdhQ__)
 
 ### Connect with me:
 
@@ -29,7 +29,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/jquery.png" />
 
 
 <br />
@@ -37,12 +36,12 @@
 
 
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ligin789&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [facebook]: https://www.facebook.com/ligin.abraham.12/
 [course]: http://vsCodeHero.com
