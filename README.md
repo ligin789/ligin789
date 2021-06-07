@@ -9,9 +9,9 @@
 - 🥅 2021 Goals: Learn nEw Things
 - ⚡ Fun fact: I love to drive,sleep,Eat
 
-### Spotify Playing 🎧
+### Saavn Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ligin Spotify Playing" width="350" />](https://www.saavn.com/s/playlist/77033f79160e57575ff81557fd8d5161/Music/itLNdJH3Yn8GSw2I1RxdhQ__)
 
 ### Connect with me:
 
@@ -29,6 +29,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/jquery.png" />
+
 
 <br />
 <br />
