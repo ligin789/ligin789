@@ -11,7 +11,7 @@
 
 ### Saavn Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ligin Spotify Playing" width="350" />](https://www.saavn.com/s/playlist/77033f79160e57575ff81557fd8d5161/Music/itLNdJH3Yn8GSw2I1RxdhQ__)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ligin saavan Playing" width="350" />](https://www.saavn.com/s/playlist/77033f79160e57575ff81557fd8d5161/Music/itLNdJH3Yn8GSw2I1RxdhQ__)
 
 ### Connect with me:
 
