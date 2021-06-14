@@ -1,4 +1,4 @@
-### Hi there, I'm Ligin Abraham 👋
+### Hi there, I'm Ligin Abraham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ligin_abraham_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ligin_abraham_?s=08)
 
