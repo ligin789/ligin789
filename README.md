@@ -1,13 +1,17 @@
 ### Hi there, I'm Ligin Abraham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/ligin_abraham_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ligin_abraham_?s=08)
 
 ## I'm a Student, Block Chain Developer,Full stack developer!!
-- 🔭 Primary Coding - C Program
+- ✨ Primary Coding - C Program
 - 🔭 I Studying Mca
 - 🌱 I’m currently learning everything ⚡
 - 🥅 2021 Goals: Learn nEw Things
 - ⚡ Fun fact: I love to drive,sleep,Eat
+
+- 💼 Any freelance work? Do reach, [email](mailto:liginabraham@mca.ajce.in) :)
+- 💬 Ask me about anything, I am happy to help;
 
 ### Saavn Playing 🎧
 
@@ -39,15 +43,11 @@
 
 <br />
 <br />
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈<br/><br/>
+
+<a href="https://www.buymeacoffee.com/ligin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ligin789&show_icons=true&hide_border=true" />
-
-</details> -->
 
 [facebook]: https://www.facebook.com/ligin.abraham.12/
 [course]: http://vsCodeHero.com
