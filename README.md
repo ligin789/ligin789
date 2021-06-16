@@ -52,6 +52,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈<br/><b
 [facebook]: https://www.facebook.com/ligin.abraham.12/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/ligin_abraham_?s=08
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/ligin_abraham_/
+[instagram]: https://www.instagram.com/mr_ligin/
 [linkedin]: https://www.linkedin.com/in/ligin-abraham-b7a46b153/
