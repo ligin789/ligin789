@@ -21,8 +21,8 @@
 
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ligin_abraham_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ligin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ligin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -52,5 +52,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈<br/><b
 [facebook]: https://www.facebook.com/ligin.abraham.12/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/ligin_abraham_?s=08
-[instagram]: https://www.instagram.com/mr_ligin/
+[instagram]: https://www.instagram.com/mr_ligin_/
 [linkedin]: https://www.linkedin.com/in/ligin-abraham-b7a46b153/
