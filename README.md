@@ -5,7 +5,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ligin_abraham_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ligin_abraham_?s=08)
 
-## I'm a Student, Block Chain Developer,Full stack developer!!
+## I'm a Student,Full stack developer!!
 - ✨ Primary Coding - C Program
 - 🔭 I Studying Mca
 - 🌱 I’m currently learning everything ⚡
