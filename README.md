@@ -5,14 +5,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ligin_abraham_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ligin_abraham_?s=08)
 
-## I'm a Student,Full stack developer!!
+## I'm a Full stack developer, React | React Native | Mern!!
 - ✨ Primary Coding - C Program
-- 🔭 I Studying Mca
+- 🔭 I Hold an Intergrated MCA
+- 🔭 Hybrid app developer
 - 🌱 I’m currently learning everything ⚡
-- 🥅 2021 Goals: Learn nEw Things
+- 🥅 2024 Goals: Learn NextJs
 - ⚡ Fun fact: I love to drive,sleep,Eat
 
-- 💼 Any freelance work? Do reach, [email](mailto:liginabraham@mca.ajce.in) :)
+- 💼 Any freelance work? Do reach, [email](mailto:ligin789@mgmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 ### Saavn Playing 🎧
